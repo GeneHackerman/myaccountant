@@ -20,7 +20,7 @@
 
   ## Usage
   The site is fairly simple and direct; provide the name of the transaction and the transaction amount then add or subtract from the budget. As transactions are added, the graph will alter to present a detailed scale of budget spending. 
-  ![budget-tracker](https://user-images.githubusercontent.com/93616797/166109319-c3243874-72f9-4111-8352-083d8996ee4d.png)
+  ![budget-tracker](https://user-images.githubusercontent.com/93616797/166109376-b1a41805-0718-4b4f-890b-810684fae06c.png)
 
   ## Licenses
     This project is covered under the MIT license. To learn more about what this means, click the license button at the top.
